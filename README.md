@@ -1,3 +1,7 @@
 VoxelCarving
 ============
-Okay GitHub, this is the first time I am using you!! I am going to rule the world!!!
+Make sure OpenCV with VTK are installed correctly. To make the project type:
+cmake CMakeLists:txt
+make
+
+
