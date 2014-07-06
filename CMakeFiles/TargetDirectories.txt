@@ -1,1 +1,1 @@
-/home/guru/Work/CameraCalibration/CMakeFiles/CameraCalibration.dir
+/home/guru/Work/VoxelCarving/CMakeFiles/CameraCalibration.dir

@@ -4,7 +4,7 @@ SET(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 SET(CMAKE_DEPENDS_CHECK_CXX
-  "/home/guru/Work/CameraCalibration/HelloWorld2.cpp" "/home/guru/Work/CameraCalibration/CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.o"
+  "/home/guru/Work/VoxelCarving/HelloWorld2.cpp" "/home/guru/Work/VoxelCarving/CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.o"
   )
 SET(CMAKE_CXX_COMPILER_ID "GNU")
 

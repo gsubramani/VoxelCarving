@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/guru/Work/CameraCalibration
+CMAKE_SOURCE_DIR = /home/guru/Work/VoxelCarving
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/guru/Work/CameraCalibration
+CMAKE_BINARY_DIR = /home/guru/Work/VoxelCarving
 
 # Include any dependencies generated for this target.
 include CMakeFiles/CameraCalibration.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/CameraCalibration.dir/flags.make
 
 CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.o: CMakeFiles/CameraCalibration.dir/flags.make
 CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.o: HelloWorld2.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/guru/Work/CameraCalibration/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/guru/Work/VoxelCarving/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.o -c /home/guru/Work/CameraCalibration/HelloWorld2.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.o -c /home/guru/Work/VoxelCarving/HelloWorld2.cpp
 
 CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/guru/Work/CameraCalibration/HelloWorld2.cpp > CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/guru/Work/VoxelCarving/HelloWorld2.cpp > CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.i
 
 CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/guru/Work/CameraCalibration/HelloWorld2.cpp -o CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/guru/Work/VoxelCarving/HelloWorld2.cpp -o CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.s
 
 CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.o.requires:
 .PHONY : CMakeFiles/CameraCalibration.dir/HelloWorld2.cpp.o.requires
@@ -137,6 +137,6 @@ CMakeFiles/CameraCalibration.dir/clean:
 .PHONY : CMakeFiles/CameraCalibration.dir/clean
 
 CMakeFiles/CameraCalibration.dir/depend:
-	cd /home/guru/Work/CameraCalibration && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guru/Work/CameraCalibration /home/guru/Work/CameraCalibration /home/guru/Work/CameraCalibration /home/guru/Work/CameraCalibration /home/guru/Work/CameraCalibration/CMakeFiles/CameraCalibration.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/guru/Work/VoxelCarving && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/guru/Work/VoxelCarving /home/guru/Work/VoxelCarving /home/guru/Work/VoxelCarving /home/guru/Work/VoxelCarving /home/guru/Work/VoxelCarving/CMakeFiles/CameraCalibration.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/CameraCalibration.dir/depend
 
