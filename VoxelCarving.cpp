@@ -1,3 +1,11 @@
+///////////////////////////////////////////
+///////////////////////////////////////////
+//This cpp file contains the functional aspects of voxel carving.
+//It contains generation of a lookup table to translate pixel 
+//positions in camera images corresponding to an object in a voxel grid.
+//Please see: http://en.wikipedia.org/wiki/Voxel
+///////////////////////////////////////////
+///////////////////////////////////////////
 #include "stdafx.cpp"
 
 #include <iostream>
